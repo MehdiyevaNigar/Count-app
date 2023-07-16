@@ -1,0 +1,11 @@
+button{
+    background-color: brown;
+    border: none;
+    font-size: 30px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 50%;
+    display: inline-block;
+}

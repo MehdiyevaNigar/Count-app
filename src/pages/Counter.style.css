@@ -1,0 +1,12 @@
+p{
+    display: inline;
+    font-size: 30px;
+}
+.counter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    height: 100vh;
+    background-color: bisque;
+}
